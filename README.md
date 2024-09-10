@@ -10,8 +10,6 @@ The Invoice Data Extractor is a powerful tool designed to streamline the process
 
 **Data Preview:** Allows users to preview uploaded invoices and the extracted information before processing, ensuring accuracy and relevancy.
 
-Dependencies listed in requirements.txt
-Uploading and Extracting Data
-Upload Invoices: Drag and drop your invoice files into the upload area or use the file chooser to select files.
-Preview and Extract: Preview your uploaded invoices and click the 'Extract Data' button to begin the extraction process.
+Dependencies are listed in requirements.txt
+
 
