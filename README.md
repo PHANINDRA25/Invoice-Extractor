@@ -13,10 +13,12 @@ The Invoice Data Extractor is a powerful tool designed to streamline the process
 ![image](https://github.com/user-attachments/assets/c3836c4b-2b0d-465b-b949-d71759ed4491) ![image](https://github.com/user-attachments/assets/72c9c843-9f3d-4110-b001-360257619a82)
 
 
+**Advantages**
 
-
-
-Dependencies are listed in requirements.txt
+1. **Automated Data Entry -**  The tool minimizes the need for manual data entry. This speeds up the process and reduces manual errors.
+2. **Scalability - **The application can handle increased volumes without additional resource allocation
+3. **Integration with Other Systems - **this can be integrated with ERP, accounting softwares creating a seamless flow of data across business operations.
+4. Improved Workflow and Efficiency 
 
 
 
