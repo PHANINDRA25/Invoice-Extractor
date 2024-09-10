@@ -5,7 +5,9 @@ The Invoice Data Extractor is a powerful tool designed to streamline the process
 
 ### Features
 **Automated Text Extraction:** Utilizes Google GEMINI Multimodal LLM's OCR capabilities to identify and extract text from uploaded invoices.
+
 **Web Interface:** A user-friendly web interface built using Streamlit where users can upload invoices, view uploads in real-time, and interact with the extracted data by posing relevant queries.
+
 **Data Preview:** Allows users to preview uploaded invoices and the extracted information before processing, ensuring accuracy and relevancy.
 
 Dependencies listed in requirements.txt
