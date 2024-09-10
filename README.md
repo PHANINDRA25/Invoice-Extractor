@@ -10,6 +10,14 @@ The Invoice Data Extractor is a powerful tool designed to streamline the process
 
 **Data Preview:** Allows users to preview uploaded invoices and the extracted information before processing, ensuring accuracy and relevancy.
 
+
+![image](https://github.com/user-attachments/assets/a20a58bf-9f6f-433d-a1a9-9acce66ee6db)
+![image](https://github.com/user-attachments/assets/9eda6502-00bd-4316-b372-c5ebeb6a6bd2)
+
+
+
 Dependencies are listed in requirements.txt
+
+
 
 
